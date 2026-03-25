@@ -1,16 +1,17 @@
 ﻿using System;
 
-class Program
+class TaxCalculator
 {
     static void Main()
     {
-        Console.Write("Ingresa tu salario anual: ");
+        Console.Write("Ingrese su salario anual: ");
         double salario = Convert.ToDouble(Console.ReadLine());
 
         if (salario > 12000)
         {
-            double impuesto = (salario - 12000) * 0.15;
-            Console.WriteLine("Resultado: " + impuesto);
+            double excedente = salario - 12000;
+            double impuesto = excedente * 0.15;
+            Console.WriteLine($"Resultado: {impuesto}");
         }
         else
         {

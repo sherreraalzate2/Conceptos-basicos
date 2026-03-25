@@ -1,32 +1,20 @@
 ﻿using System;
 
-class Program
+class MidweekDay
 {
     static void Main()
     {
-        Console.Write("Ingresa un número del 1 al 7: ");
+        Console.Write("Ingrese un número del 1 al 7: ");
         int numero = Convert.ToInt32(Console.ReadLine());
 
-        switch (numero)
+        if (numero >= 1 && numero <= 5)
         {
-            case 1:
-                Console.WriteLine("Resultado: Lunes");
-                break;
-            case 2:
-                Console.WriteLine("Resultado: Martes");
-                break;
-            case 3:
-                Console.WriteLine("Resultado: Miércoles");
-                break;
-            case 4:
-                Console.WriteLine("Resultado: Jueves");
-                break;
-            case 5:
-                Console.WriteLine("Resultado: Viernes");
-                break;
-            default:
-                Console.WriteLine("Resultado: Número fuera del rango laboral.");
-                break;
+            string[] dias = { "Lunes", "Martes", "Miércoles", "Jueves", "Viernes" };
+            Console.WriteLine($"Resultado: {dias[numero - 1]}");
+        }
+        else
+        {
+            Console.WriteLine("Resultado: Número fuera del rango laboral.");
         }
     }
 }
