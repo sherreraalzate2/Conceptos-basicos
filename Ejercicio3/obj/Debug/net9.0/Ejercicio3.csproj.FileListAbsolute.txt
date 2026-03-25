@@ -1,0 +1,15 @@
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.sourcelink.json
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\sherr\StudioProjects\conceptos-basicos\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll
